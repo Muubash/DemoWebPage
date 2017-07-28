@@ -1,4 +1,9 @@
 js one
 js two
+<<<<<<< HEAD
 js line added new
 again 
+=======
+more lines adding
+again new lines
+>>>>>>> jsbr
